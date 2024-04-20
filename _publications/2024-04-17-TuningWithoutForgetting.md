@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-04-17-TuningWithoutForgetting
 # excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-04-17
-venue: '(under review))'
+venue: '(under review)'
 paperurl: 'https://arxiv.org/abs/2404.11013'
 citation: 'Control Theoretic Approach to Fine-Tuning and Transfer Learning
 E Bayram, S Liu, MA Belabbas, T Başar - arXiv preprint arXiv:2404.11013, 2024'

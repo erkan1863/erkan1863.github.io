@@ -24,7 +24,7 @@ author:
   avatar           : "ebayram2.jpg"
   name             : "Erkan Bayram"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate"
+  bio              : "Ph.D. Candidate at UIUC ECE"
   location         : "Urbana"
   employer         : "University of Illinois Urbana-Champaign"
   uri              : # URL
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "erkan1663"
+  github           : "erkan1863"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
