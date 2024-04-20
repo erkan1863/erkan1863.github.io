@@ -16,7 +16,11 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
+    # url: /cv/
     url: /files/ErkanBayram_CV.pdf
+
+  - title: "Experiences"
+    url: /experiences/
     
   # - title: "Guide"
   #   url: /markdown/
