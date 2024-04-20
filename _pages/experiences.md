@@ -18,35 +18,40 @@ Education
 Work experience
 ======
 * May 2021 - Dec 2023: Signal Processing Focus Data Science Consultant
-  * Neurocess, Co., Remote, London, UK
+  * **Neurocess, Co.**, Remote, London, UK
     - Developed probabilistic ML models for performance analysis of soccer players via TensorFlow and PyTorch.
     - Developed a novel denoising model providing a significant 17dB SNR improvement for motion artifact denoising on sEMG data.
     - Automated report generation for weekly monitoring of athletes using generative models and LLM.
     - Utilized AWS for ML model deployment and cloud computing.
 
 * Jan 2024 - Present: Teaching Assistant
-  * University of Illinois Urbana-Champaign, Urbana, IL
+  * **University of Illinois Urbana-Champaign**, Urbana, IL
     - Teaching Assistant for MATH595/ECE553 Optimum Control Systems: Holding office hours and grading assignments.
 
 * Aug 2021 - Present: Research Assistant at Decision and Control Group
-  * Coordinated Science Lab (UIUC), Urbana, IL
+  * **Coordinated Science Lab (UIUC)**, Urbana, IL
     - Proficient in advanced control theory, optimizing system performance.
     - Specializing in sensor fusion techniques for data integration.
     - Focused on distributed optimization algorithms for enhanced system efficiency.
 
-* Jan 2021 - June 2021: Researcher (at Scientific and Technological Research Council of Turkey)
-  * Tübitak SAGE, Ankara, Turkey
+* Jan 2021 - June 2021: Researcher 
+  * **Tübitak SAGE**, Ankara, Turkey
     - Worked at the Simulation and Mission Planning Software Division.
     - Used C++ and .NET to create the simulation environment for navigation algorithms for cruise missiles.
 
 * June - August 2020: Summer Intern in Systems Engineering
-  * ASELSAN, Ankara, Turkey
+  * **ASELSAN**, Ankara, Turkey
     - Worked on a nonlinear radar tracking problem and obtained 5.2% increase in filtering performance.
     - Compared the performance of iterative and non-iterative Kalman Filters (EKF, UKF, PLF) in MATLAB.
 
-* August - September 2019: Summer Intern in Simulation Engineering (at Scientific and Technological Research Council of Turkey)
-  * Tübitak SAGE, Ankara, Turkey
+* August - September 2019: Summer Intern in Simulation Engineering
+  * **Tübitak SAGE**, Ankara, Turkey
     - Modeled sound behavior for a flight simulator in MATLAB, including simulations of physical characteristics e.g Doppler effect.
+
+
+Service
+======
+* Technical Reviewer for: IEEE ISIT, IEEE L-CSS, IEEE CDC.
 
 <!--   
 Skills
