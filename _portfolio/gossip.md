@@ -1,6 +1,6 @@
 ---
 title: "Communication on Gossip Network"
-excerpt: "Analyze communicaiton on gossip networks"
+excerpt: "Analyze communication on gossip networks <br/><img src='/images/system_model_Erkan.png'>"
 collection: portfolio
 ---
 
