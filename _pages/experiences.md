@@ -12,8 +12,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical and Computer Engineering, University of Illinois Urbana-Champaign, 2026 (expected)
-* B.S. in Electrical and Electronics Engineering, Bilkent University, 2021
+* Ph.D in Electrical and Computer Engineering, University of Illinois Urbana-Champaign, 2026 (expected), USA
+* B.S. in Electrical and Electronics Engineering, Bilkent University, 2021, (with Full Tuition Fee Scholarship), Turkey
+  * Exchange Mobility in Electrical and Electronics Engineering, Aston University, 2020, UK
 
 Work experience
 ======
@@ -47,6 +48,17 @@ Work experience
 * August - September 2019: Summer Intern in Simulation Engineering
   * **Tübitak SAGE**, Ankara, Turkey
     - Modeled sound behavior for a flight simulator in MATLAB, including simulations of physical characteristics e.g Doppler effect.
+
+Honors & Academic Achievements
+======
+* 2021 
+  * Academic Excellence Award, Bilkent University EEE Department. 
+  * Social Awareness and Activity Award, Bilkent University EEE Department. 
+  * Recipient of the Undergraduate Industrial Project Grant, 2209B Tübitak Grant for an R&D project. 
+* 2016
+  * Ranked 252nd among 2 million students in the National University Placement Exam (YGS-LYS) 
+* 2009
+  * National Merit Scholarships - Governmental stipend for successful precollege students in Turkey. 
 
 
 Service
