@@ -2,7 +2,7 @@
 title: "Vector-Valued Gossip over w-Holonomic Networks"
 collection: publications
 permalink: /publication/2023-11-08-holonomy_over_gossip
-excerpt: ''
+# excerpt: ''
 date: 2023-11-08
 venue: '(under review)'
 # paperurl: 'http://erkan1863.github.io/files/Vector-Valued Gossip over w-Holonomic Network.pdf'
