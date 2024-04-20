@@ -1,5 +1,5 @@
 ---
-title: Age of (k,n)-Threshold Signature Scheme on a Gossip Network"
+title: "Age of (k,n)-Threshold Signature Scheme on a Gossip Network"
 collection: publications
 permalink: /publication/2024-02-18-age_k_n_TSS_on_gossip
 # excerpt: ''
