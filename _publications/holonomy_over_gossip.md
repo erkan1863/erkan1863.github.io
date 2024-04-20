@@ -5,7 +5,8 @@ permalink: /publication/holonomy_over_gossip
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 # date: 2009-10-01
 # venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/Vector-Valued Gossip over w-Holonomic Networkser1.pdf'
+# paperurl: 'http://erkan1863.github.io/files/Vector-Valued Gossip over w-Holonomic Networkser1.pdf'
+paperurl: https://arxiv.org/abs/2311.04455
 citation: 'Vector-Valued Gossip over $w$-Holonomic Networks E. Bayram, M.-A. Belabbas, T. Başar - arXiv preprint arXiv:2311.04455, 2023'
 ---
 
