@@ -21,10 +21,10 @@ repository               : "erkan1863/erkan1863.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ebayram2.png"
   name             : "Erkan Bayram"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D. Candidate"
   location         : "Urbana"
   employer         : "University of Illinois Urbana-Champaign"
   uri              : # URL
