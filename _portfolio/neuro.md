@@ -12,7 +12,7 @@ In this project, we have analyzed sEMG measuremnt of professional athlete. I hav
 
 * In [sEMG Motion Classification Via Few-Shot Learning With Applications To Sports Science](https://erkan1863.github.io/publication/2023-04-08-FSL), we have utilised few-shot learning (FSL) techniques to overcome the small dataset problem of sports-related motion classification tasks. The employed methodology uses the knowledge gathered from a large set of tasks to classify unseen tasks with a few data samples. 
 
-We presented our study on 'Cooperation of Isometric Force Test and EMG for Hamstring Injury Prevention' at the [Isokinetic Conference23](https://isokineticconference.com/2024-edition/) in London.
+* We presented our study on 'Cooperation of Isometric Force Test and EMG for Hamstring Injury Prevention' at the [Isokinetic Conference23](https://isokineticconference.com/2024-edition/) in London.
 
 
 
