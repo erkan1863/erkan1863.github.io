@@ -18,6 +18,10 @@ Education
 
 Work experience
 ======
+* May 2024 - Ongoing: Data Science Intern
+  * **Analog Devices, Inc.**, On-site, Boston, MA
+    - Developing ultra-low latency neural networks for active noise cancellation.
+
 * May 2021 - Dec 2023: Signal Processing Focus Data Science Consultant
   * **Neurocess, Co.**, Remote, London, UK
     - Developed probabilistic ML models for performance analysis of soccer players via TensorFlow and **PyTorch**.
