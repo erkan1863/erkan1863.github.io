@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-02-18-age_k_n_TSS_on_gossip
 # excerpt: ''
 date: 2024-02-18
-venue: '(under review)'
+venue: 'Accepted for Asilomar Conference on Signal, Systems and Computer'
 paperurl: 'https://arxiv.org/abs/2402.11462'
 citation: 'Age of (k, n)-Threshold Signature Scheme on a Gossip Network
 E Bayram, M Bastopcu, MA Belabbas, T Başar - arXiv preprint arXiv:2402.11462, 2024'
