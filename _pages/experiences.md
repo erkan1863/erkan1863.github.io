@@ -18,12 +18,12 @@ Education
 
 Work experience
 ======
-* May 2024 - Ongoing: Data Science Intern
+* May 2024 - Aug 2024: Machine Learning Intern 
   * **Analog Devices, Inc.**, On-site, Boston, MA
     - Built an ultra low latency and ultra low power wind noise reduction model:
-    - Outperformed the SOTA by ~5dB in wind noise reduction within application latency constraint.
-    - Reduced model size x25 with respect to the SOTA to meet application memory constraint.
-    - Reduced FLOPs x4 with respect to the SOTA to have power efficiency
+    - Outperformed the SOTA by **~5dB** in wind noise reduction within application latency constraint.
+    - Reduced model size **x25** with respect to the SOTA to meet application memory constraint.
+    - Reduced FLOPs **x4** with respect to the SOTA to have power efficiency
 
 * May 2021 - Dec 2023: ML for Signal Processing Focus Consultant
   * **Neurocess, Co.**, Remote, London, UK
