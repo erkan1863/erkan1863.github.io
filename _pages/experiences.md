@@ -20,7 +20,8 @@ Work experience
 ======
 * May 2024 - Aug 2024: Machine Learning Intern 
   * **Analog Devices, Inc.**, On-site, Boston, MA
-    - Built an ultra low latency and ultra low power wind noise reduction model:
+    - Built an ultra low latency and ultra low power wind noise reduction model
+    - Utilized **AzureML** for model development and testing.
     - Outperformed the SOTA by **~5dB** in wind noise reduction within application latency constraint.
     - Reduced model size **x25** with respect to the SOTA to meet application memory constraint.
     - Reduced FLOPs **x4** with respect to the SOTA to have power efficiency
@@ -34,29 +35,29 @@ Work experience
     - Developed a novel **few-shot-learning** model for sEMG motion classification achieving an accuracy of %79 in a 10-way-5-shot learning.
 
 * Jan 2024 - Present: Teaching Assistant
-  * **University of Illinois Urbana-Champaign**, Urbana, IL
+  * **University of Illinois Urbana-Champaign**, On-site, Urbana, IL
     - Teaching Assistant for MATH595/ECE553 Optimum Control Systems: Holding office hours and grading assignments.
     - Teaching Assistant for ECE555 Control of Stochastic Systems: Holding office hours and grading assignments.
 
 * Aug 2021 - Present: Research Assistant at Decision and Control Group
-  * **Coordinated Science Lab (UIUC)**, Urbana, IL
+  * **Coordinated Science Lab (UIUC)**, On-site, Urbana, IL
     - Proficient in advanced control theory, optimizing system performance.
     - Studying control for learning (integrating control theory for robust learning)
     - Focused on distributed optimization algorithms for enhanced system efficiency.
 
 * Jan 2021 - June 2021: Researcher 
-  * **Tübitak SAGE**, Ankara, Turkey
+  * **Tübitak SAGE**, On-site, Ankara, Turkey
     - Worked at the Simulation and Mission Planning Software Division.
     - Used **C++** and **.NET** to create the simulation environment for navigation algorithms for cruise missiles.
 
 * June - August 2020: Summer Intern in Systems Engineering
-  * **ASELSAN**, Ankara, Turkey
+  * **ASELSAN**, On-site, Ankara, Turkey
     - Studied on a nonlinear radar tracking problem and obtained **5.2%** increase in filtering performance.
     - Compared the performance of iterative and non-iterative Kalman Filters **(EKF, UKF, PLF)** in MATLAB.
     - Specializing in sensor fusion techniques for data integration.
 
 * August - September 2019: Summer Intern in Simulation Engineering
-  * **Tübitak SAGE**, Ankara, Turkey
+  * **Tübitak SAGE**, On-site, Ankara, Turkey
     - Modeled sound behavior for a flight simulator in **MATLAB**, including simulations of physical characteristics e.g Doppler effect.
 
 Honors & Academic Achievements
