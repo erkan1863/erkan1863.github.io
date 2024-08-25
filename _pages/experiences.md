@@ -20,9 +20,12 @@ Work experience
 ======
 * May 2024 - Ongoing: Data Science Intern
   * **Analog Devices, Inc.**, On-site, Boston, MA
-    - Developing ultra-low latency neural networks for active noise cancellation.
+    - Built an ultra low latency and ultra low power wind noise reduction model:
+    - Outperformed the SOTA by ~5dB in wind noise reduction within application latency constraint.
+    - Reduced model size x25 with respect to the SOTA to meet application memory constraint.
+    - Reduced FLOPs x4 with respect to the SOTA to have power efficiency
 
-* May 2021 - Dec 2023: Signal Processing Focus Data Science Consultant
+* May 2021 - Dec 2023: ML for Signal Processing Focus Consultant
   * **Neurocess, Co.**, Remote, London, UK
     - Developed probabilistic ML models for performance analysis of soccer players via TensorFlow and **PyTorch**.
     - Developed a novel denoising model providing a significant **17dB SNR** improvement for motion artifact denoising on sEMG data.
@@ -33,6 +36,7 @@ Work experience
 * Jan 2024 - Present: Teaching Assistant
   * **University of Illinois Urbana-Champaign**, Urbana, IL
     - Teaching Assistant for MATH595/ECE553 Optimum Control Systems: Holding office hours and grading assignments.
+    - Teaching Assistant for ECE555 Control of Stochastic Systems: Holding office hours and grading assignments.
 
 * Aug 2021 - Present: Research Assistant at Decision and Control Group
   * **Coordinated Science Lab (UIUC)**, Urbana, IL
