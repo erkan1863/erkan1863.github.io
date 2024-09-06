@@ -36,8 +36,8 @@ Work experience
 
 * Jan 2024 - Present: Teaching Assistant
   * **University of Illinois Urbana-Champaign**, On-site, Urbana, IL
-    - Teaching Assistant for MATH595/ECE553 Optimum Control Systems: Holding office hours and grading assignments.
-    - Teaching Assistant for ECE555 Control of Stochastic Systems: Holding office hours and grading assignments.
+    - Teaching Assistant for **MATH595/ECE553** Optimum Control Systems: Holding office hours and grading assignments.
+    - Teaching Assistant for **ECE555** Control of Stochastic Systems: Holding office hours and grading assignments.
 
 * Aug 2021 - Present: Research Assistant at Decision and Control Group
   * **Coordinated Science Lab (UIUC)**, On-site, Urbana, IL
