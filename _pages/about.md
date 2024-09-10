@@ -14,9 +14,9 @@ I am a Ph.D. candidate at the [University of Illinois Urbana-Champaign](https://
 I have mainly focused on data analysis and control theory. I am interested in developing projects to analyze performance and improve sport athletes' performance using machine learning on sEMG and location tracking data.
 
 **NEWS**:
-* **09/2024** Paper on [Age of k-out-of-n Systems on a Gossip Network](https://erkan1863.github.io/publication/2024-02-18-age_k_n_TSS_on_gossip) accepted to [Asilomar Conference on Signals, Systems and Computers](https://www.asilomarsscconf.org/)
+* **09/2024** Paper on [Age of k-out-of-n Systems on a Gossip Network](https://erkan1863.github.io/publication/2024-02-18-age_k_n_TSS_on_gossip) accepted to [ACSSC 2024](https://www.asilomarsscconf.org/)
 
-* **09/2024** Paper on  [Control Theoretic Approach to Fine-Tuning and Transfer Learning](https://erkan1863.github.io/publication/2024-04-17-TuningWithoutForgetting) accepted to [Symposium on Systems Theory in Data and Optimization](https://www.sysdo2024.de/en/)
+* **09/2024** Paper on  [Control Theoretic Approach to Fine-Tuning and Transfer Learning](https://erkan1863.github.io/publication/2024-04-17-TuningWithoutForgetting) accepted to [SysDO2024](https://www.sysdo2024.de/en/)
 
 * **08/2024** I have succesfully completed my internship at Core AI Lab in [Analog Devices Inc.](https://www.analog.com/en/index.html) as Machine Learning Intern, where I have worked on Ultra-Low Latency neural networks for three months.
 

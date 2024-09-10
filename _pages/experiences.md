@@ -74,7 +74,7 @@ Honors & Academic Achievements
 
 Service
 ======
-* Technical Reviewer for: IEEE ISIT, IEEE L-CSS, IEEE CDC.
+* Technical Reviewer for: IEEE ISIT, IEEE L-CSS, IEEE CDC, SysDO'24
 
 <!--   
 Skills
