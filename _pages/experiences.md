@@ -36,8 +36,8 @@ Work experience
 
 * Jan 2024 - Present: Teaching Assistant
   * **University of Illinois Urbana-Champaign**, On-site, Urbana, IL
-    - Teaching Assistant for **MATH595/ECE553** Optimum Control Systems: Holding office hours and grading assignments.
-    - Teaching Assistant for **ECE555** Control of Stochastic Systems: Holding office hours and grading assignments.
+    - Teaching Assistant for **MATH595/ECE553** Optimum Control Systems (Spring 2024): Holding office hours and grading assignments.
+    - Teaching Assistant for **ECE555** Control of Stochastic Systems (Fall 2024): Holding office hours and grading assignments.
 
 * Aug 2021 - Present: Research Assistant at Decision and Control Group
   * **Coordinated Science Lab (UIUC)**, On-site, Urbana, IL
@@ -50,13 +50,13 @@ Work experience
     - Worked at the Simulation and Mission Planning Software Division.
     - Used **C++** and **.NET** to create the simulation environment for navigation algorithms for cruise missiles.
 
-* June - August 2020: Summer Intern in Systems Engineering
+* June - August 2020: Systems Engineering Intern
   * **ASELSAN**, On-site, Ankara, Turkey
     - Studied on a nonlinear radar tracking problem and obtained **5.2%** increase in filtering performance.
     - Compared the performance of iterative and non-iterative Kalman Filters **(EKF, UKF, PLF)** in MATLAB.
     - Specializing in sensor fusion techniques for data integration.
 
-* August - September 2019: Summer Intern in Simulation Engineering
+* August - September 2019: Simulation&Modeling Engineering Intern
   * **Tübitak SAGE**, On-site, Ankara, Turkey
     - Modeled sound behavior for a flight simulator in **MATLAB**, including simulations of physical characteristics e.g Doppler effect.
 
