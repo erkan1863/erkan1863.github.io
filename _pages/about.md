@@ -14,9 +14,11 @@ I am a Ph.D. candidate at the [University of Illinois Urbana-Champaign](https://
 I have focused on the efficient utilization of neural networks under communication and control constraints for edge (distributed) devices applications e.g. sEMG sensor, audio-noise cancellation.
 
 **NEWS**:
+* **10/2024** Paper on [Age of Coded Updates In Gossip Network Under Memory and Memoryless Scheme](https://erkan1863.github.io/publication/2024-10-29-age_of_coded) is on ArXiV.
+
 * **09/2024** Paper on [Age of k-out-of-n Systems on a Gossip Network](https://erkan1863.github.io/publication/2024-02-18-age_k_n_TSS_on_gossip) accepted to [ACSSC 2024](https://www.asilomarsscconf.org/), Pacific Grove, CA, October 2024
 
-* **09/2024** Paper on  [Control Theoretic Approach to Fine-Tuning and Transfer Learning](https://erkan1863.github.io/publication/2024-04-17-TuningWithoutForgetting) accepted to [SysDO2024](https://www.sysdo2024.de/en/), Stuttgart, Germany, September 2024
+* **09/2024** Paper on [Control Theoretic Approach to Fine-Tuning and Transfer Learning](https://erkan1863.github.io/publication/2024-04-17-TuningWithoutForgetting) accepted to [SysDO2024](https://www.sysdo2024.de/en/), Stuttgart, Germany, September 2024
 
 * **08/2024** I have succesfully completed my internship at Core AI Lab in [Analog Devices Inc.](https://www.analog.com/en/index.html) as Machine Learning Intern, where I have worked on Ultra-Low Latency neural networks for three months.
 
