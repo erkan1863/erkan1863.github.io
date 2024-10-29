@@ -5,7 +5,7 @@ permalink: /publication/2024-10-29-age_of_coded
 # excerpt: ''
 date: 2024-10-29
 venue: '(Under review)'
-paperurl: 'https://arxiv.org/abs/2402.11462'
+paperurl: 'https://arxiv.org/abs/2410.19696'
 citation: 'Age of Coded Updates In Gossip Networks Under Memory and Memoryless Schemes
 E Bayram, M Bastopcu, MA Belabbas, T Başar, 2024'
 ---

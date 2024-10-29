@@ -14,7 +14,7 @@ I am a Ph.D. candidate at the [University of Illinois Urbana-Champaign](https://
 I have focused on the efficient utilization of neural networks under communication and control constraints for edge (distributed) devices applications e.g. sEMG sensor, audio-noise cancellation.
 
 **NEWS**:
-* **10/2024** Paper on [Age of Coded Updates In Gossip Network Under Memory and Memoryless Scheme](https://erkan1863.github.io/publication/2024-10-29-age_of_coded) is on ArXiV.
+* **10/2024** Paper on [Age of Coded Updates In Gossip Network Under Memory and Memoryless Scheme](https://erkan1863.github.io/publication/2024-10-29-age_of_coded) is on ArXiv.
 
 * **09/2024** Paper on [Age of k-out-of-n Systems on a Gossip Network](https://erkan1863.github.io/publication/2024-02-18-age_k_n_TSS_on_gossip) accepted to [ACSSC 2024](https://www.asilomarsscconf.org/), Pacific Grove, CA, October 2024
 
