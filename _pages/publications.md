@@ -14,6 +14,8 @@ author_profile: true
 
 <!-- {% include base_path %} -->
 
+* **Bayram E.**, Baştopçu M., Belabbas M.-A., Başar T., *Age of Coded Updates In Gossip Networks Under Memory and Memoryless Scheme*. [View on ArXiv](https://arxiv.org/abs/2410.19696)
+
 * **Bayram E.**, Liu S., Belabbas M.-A., Başar T., *Control Theoretic Approach to Fine-Tuning and Transfer Learning*. (to appear at SysDO24) [View on ArXiv](https://arxiv.org/abs/2404.11013)
 
 * **Bayram E.**, Baştopçu M., Belabbas M.-A., Başar T., *Age of k-out-of-n Systems in a Gossip Network*. (to appear at Asilomar Conference 24') [View on ArXiv](https://arxiv.org/abs/2402.11462)
