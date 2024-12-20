@@ -14,7 +14,7 @@ I am a Ph.D. candidate at the [University of Illinois Urbana-Champaign](https://
 I have focused on the efficient utilization of neural networks under communication and control constraints for edge (distributed) devices applications e.g. sEMG sensor, audio-noise cancellation.
 
 **NEWS**:
-* **12/2024** Abstract on [When do we need to hire an expert? A dynamical system approach to Mixture-of-Experts](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america) is selected for next the phase by Qualcomm Innovation Fellowship.
+* **12/2024** Abstract on [When do we need to hire an expert? A dynamical system approach to Mixture-of-Experts](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america) is selected for the phase by Qualcomm Innovation Fellowship.
 
 * **10/2024** Paper on [Age of Coded Updates In Gossip Network Under Memory and Memoryless Scheme](https://erkan1863.github.io/publication/2024-10-29-age_of_coded) is on ArXiv.
 
