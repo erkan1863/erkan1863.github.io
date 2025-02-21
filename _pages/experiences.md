@@ -26,7 +26,7 @@ Work experience
     - Reduced model size **x25** with respect to the SOTA to meet application memory constraint.
     - Reduced FLOPs **x4** with respect to the SOTA to have power efficiency
 
-* May 2021 - Dec 2023: ML for Signal Processing Focus Consultant
+* May 2021 - Dec 2023: Machine Learning for Signal Processing Consultant
   * **Neurocess, Co.**, Remote, London, UK
     - Developed probabilistic ML models for performance analysis of soccer players via TensorFlow and **PyTorch**.
     - Developed a novel denoising model providing a significant **17dB SNR** improvement for motion artifact denoising on sEMG data.
