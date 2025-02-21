@@ -1,6 +1,6 @@
 ---
 title: "Control Theory for Learning"
-excerpt: "Using control theory for robust fine-tuning <br/><img src='/images/phi_pro_kernel.png'>"
+excerpt: "Using control theory for robust fine-tuning <br/><img src='/images/flow_single_control.png'>"
 collection: portfolio
 ---
 
