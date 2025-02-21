@@ -15,7 +15,7 @@ author_profile: true
 <!-- {% include base_path %} -->
 * **Bayram E.**, Liu S., Belabbas M.-A., Başar T., *Control Theoretic Approach to Fine-Tuning and Transfer Learning*. (to appear at SysDO24) [View on ArXiv](https://arxiv.org/abs/2404.11013)
 
-* **Bayram E.**, Belabbas M.-A., *Constructing Stochastic Matrices for Weighted Averaging in Gossip Networks*. (Under review)
+* **Bayram E.**, Belabbas M. A., *Constructing Stochastic Matrices for Weighted Averaging in Gossip Networks*. (Under review)
 
 * **Bayram E.**, Baştopçu M., Belabbas M.-A., Başar T., *Age of Coded Updates In Gossip Networks Under Memory and Memoryless Scheme*. [View on ArXiv](https://arxiv.org/abs/2410.19696)
 
