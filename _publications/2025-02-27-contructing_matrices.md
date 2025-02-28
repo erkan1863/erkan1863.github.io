@@ -3,7 +3,7 @@ title: "Constructing Stochastic Matrices for Weighted Averaging in Gossip Networ
 collection: publications
 permalink: /publication/2025-02-27-contructing_matrices
 # excerpt: ''
-date: 2024-02-27
+date: 2025-02-27
 venue: '(Under review)'
 paperurl: 'https://arxiv.org/abs/2502.19821'
 citation: 'Constructing Stochastic Matrices for Weighted Averaging in Gossip Networks
