@@ -8,7 +8,7 @@ In this project, we are integrating nonlinear control theory approach into the l
 
 In [Control Theoretic Approach to Fine-Tuning and Transfer Learning](https://erkan1863.github.io/publication/2024-04-17-TuningWithoutForgetting), we introduce here the concept of tuning without forgetting. We develop an iterative algorithm to tune the control or system parameters when the training set expands, whereby points already memorized remain so, and new training samples are additional memorized.
 
-<br/><img src='/images/flow_single_control.png'>
+<br/><img src='/images/twf.png'>
 
 
 * In the limit of a large number of layers, a deep neural network can be modeled as a controlled differential equation, where the control function $u$ act as the network parameters. 

@@ -15,7 +15,7 @@ I have focused on the efficient utilization of neural networks under communicati
 
 **NEWS**:
 
-* **02/2025** Paper on [Constructing Stochastic Matrices for Weighted Averaging in Gossip Networks](https://erkan1863.github.io/publication/2025-02-27-contructing_matrices) is on ArXiv. 
+* **03/2025** Paper on [Constructing Stochastic Matrices for Weighted Averaging in Gossip Networks](https://erkan1863.github.io/publication/2025-02-27-contructing_matrices) accepted to [NecSys 2025](https://necsys25.org/), Hong-Kong, June 2025. 
 
 * **10/2024** Paper on [Age of Coded Updates In Gossip Network Under Memory and Memoryless Scheme](https://erkan1863.github.io/publication/2024-10-29-age_of_coded) is on ArXiv.
 
