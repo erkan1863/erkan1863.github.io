@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2024-02-18-age_k_n_TSS_on_gossip
 # excerpt: ''
 date: 2024-02-18
-venue: 'Accepted for Asilomar Conference on Signal, Systems and Computer 24'
-paperurl: 'https://arxiv.org/abs/2402.11462'
+venue: '58th Asilomar Conference on Signal, Systems and Computer 24'
+paperurl: 'https://ieeexplore.ieee.org/document/10942930'
 citation: 'Age of k-out-of-n Systems on a Gossip Network
 E Bayram, M Bastopcu, MA Belabbas, T Başar - arXiv preprint arXiv:2402.11462, 2024'
 ---

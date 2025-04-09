@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025-02-27-contructing_matrices
 # excerpt: ''
 date: 2025-02-27
-venue: '(Under review)'
+venue: 'NecSys 25'
 paperurl: 'https://arxiv.org/abs/2502.19821'
 citation: 'Constructing Stochastic Matrices for Weighted Averaging in Gossip Networks
 E Bayram, MA Belabbas, 2025'

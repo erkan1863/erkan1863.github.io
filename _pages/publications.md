@@ -15,11 +15,11 @@ author_profile: true
 <!-- {% include base_path %} -->
 * **Bayram E.**, Liu S., Belabbas M.-A., Başar T., *Control Theoretic Approach to Fine-Tuning and Transfer Learning*. (SysDO24) [View on ArXiv](https://arxiv.org/abs/2404.11013)
 
-* **Bayram E.**, Belabbas M. A., *Constructing Stochastic Matrices for Weighted Averaging in Gossip Networks*. (Under review)
+* **Bayram E.**, Belabbas M. A., *Constructing Stochastic Matrices for Weighted Averaging in Gossip Networks*. (NecSys 25') [View on ArXiv](https://arxiv.org/abs/2502.19821)
 
 * **Bayram E.**, Baştopçu M., Belabbas M.-A., Başar T., *Age of Coded Updates In Gossip Networks Under Memory and Memoryless Scheme*. [View on ArXiv](https://arxiv.org/abs/2410.19696)
 
-* **Bayram E.**, Baştopçu M., Belabbas M.-A., Başar T., *Age of k-out-of-n Systems in a Gossip Network*. (Asilomar Conference 24') [View on ArXiv](https://arxiv.org/abs/2402.11462)
+* **Bayram E.**, Baştopçu M., Belabbas M.-A., Başar T., *Age of k-out-of-n Systems in a Gossip Network*. (Asilomar Conference 24') [View on IEEEXplore](https://ieeexplore.ieee.org/document/10942930)
 
 * **Bayram E.**, Belabbas M.-A., Başar T., *Vector-Valued Gossip over $w$-Holonomic Networks*. (Under review) [View on ArXiv](https://arxiv.org/abs/2311.04455)
 
