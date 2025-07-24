@@ -15,13 +15,17 @@ I have focused on the efficient utilization of neural networks under communicati
 
 **NEWS**:
 
-* **05/2025** I start a returning internship at Core AI Lab in [Analog Devices Inc.](https://www.analog.com/en/index.html) as Machine Learning Intern.
+* **07/2025** Paper on Control Disturbance Rejection in Neural ODEs is accepted to CDC 2025.
 
-* **04/2025** I pass my preliminary exam, and my dissertation proposal on A Geometric Approach to Continual Learning has been approved. Thanks to all committee members.
+* **07/2025** Paper on [Age of Coded Updates In Gossip Network Under Memory and Memoryless Scheme](https://erkan1863.github.io/publication/2024-10-29-age_of_coded) is accepted to IEEE Transactions on Communications.
+
+* **05/2025** I started a returning internship at Edge AI Team in [Analog Devices Inc.](https://www.analog.com/en/index.html) as Machine Learning Intern.
+
+* **04/2025** I passed my preliminary exam, and my dissertation proposal on A Geometric Approach to Continual Learning has been approved. Thanks to all committee members!
 
 * **03/2025** Paper on [Constructing Stochastic Matrices for Weighted Averaging in Gossip Networks](https://erkan1863.github.io/publication/2025-02-27-contructing_matrices) accepted to [NecSys 2025](https://necsys25.org/), Hong-Kong, June 2025. 
 
-* **10/2024** Paper on [Age of Coded Updates In Gossip Network Under Memory and Memoryless Scheme](https://erkan1863.github.io/publication/2024-10-29-age_of_coded) is on ArXiv.
+<!-- * **10/2024** Paper on [Age of Coded Updates In Gossip Network Under Memory and Memoryless Scheme](https://erkan1863.github.io/publication/2024-10-29-age_of_coded) is on ArXiv. -->
 
 * **09/2024** Paper on [Age of k-out-of-n Systems on a Gossip Network](https://erkan1863.github.io/publication/2024-02-18-age_k_n_TSS_on_gossip) accepted to [ACSSC 2024](https://www.asilomarsscconf.org/), Pacific Grove, CA, October 2024
 
