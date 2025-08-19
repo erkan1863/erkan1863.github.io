@@ -13,12 +13,20 @@ redirect_from:
 Education
 ======
 * Ph.D in Electrical and Computer Engineering, University of Illinois Urbana-Champaign, 2026 (expected), USA
+* Msc. in Electrical and Computer Engineering, University of Illinois Urbana-Champaign, 2025, USA
 * B.S. in Electrical and Electronics Engineering, Bilkent University, 2021, (with Full Tuition Fee Scholarship), Turkey, (CGPA: 3.94/4.00)
   * Exchange Mobility in Electrical and Electronics Engineering, Aston University, 2020, UK
 
 Work experience
 ======
-* May 2024 - Aug 2024: Machine Learning Intern 
+* May 2025 - Aug 2025: Machine Learning Intern @ Edge AI
+ * **Analog Devices, Inc.**, On-site, Boston, MA
+    - Built an ultra low latency and ultra low power on speech enhancement method.
+    - Heterogeneous compute for AI-driven signal chains on edge platforms.
+    - Dynamic pruning for neural network, saving ~49% power with minimal performance loss.
+    - Reinforcement learning–based optimization pretrained NN, improving power–compute efficiency by >7% on pre-trained models without performance loss on speech enhancement.
+
+* May 2024 - Aug 2024: Machine Learning Intern @ Core AI
   * **Analog Devices, Inc.**, On-site, Boston, MA
     - Built an ultra low latency and ultra low power wind noise reduction model
     - Utilized **AzureML** for model development and testing.

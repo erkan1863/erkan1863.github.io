@@ -13,11 +13,13 @@ author_profile: true
 {% endif %}
 
 <!-- {% include base_path %} -->
+* **Bayram E.**, Belabbas M.-A., Başar T., *Control Disturbance Rejectin in Neural ODEs*. (to appear on CDC25)
+
 * **Bayram E.**, Liu S., Belabbas M.-A., Başar T., *Control Theoretic Approach to Fine-Tuning and Transfer Learning*. (SysDO24) [View on ArXiv](https://arxiv.org/abs/2404.11013)
 
-* **Bayram E.**, Belabbas M. A., *Constructing Stochastic Matrices for Weighted Averaging in Gossip Networks*. (NecSys 25') [View on ArXiv](https://arxiv.org/abs/2502.19821)
+* **Bayram E.**, Belabbas M. A., *Constructing Stochastic Matrices for Weighted Averaging in Gossip Networks*. (NecSys 25') [View on IFAC](https://www.sciencedirect.com/science/article/pii/S2405896325003957)
 
-* **Bayram E.**, Baştopçu M., Belabbas M.-A., Başar T., *Age of Coded Updates In Gossip Networks Under Memory and Memoryless Scheme*. [View on ArXiv](https://arxiv.org/abs/2410.19696)
+* **Bayram E.**, Baştopçu M., Belabbas M.-A., Başar T., *Age of Coded Updates In Gossip Networks Under Memory and Memoryless Scheme*. [View on IEEEXplore](https://ieeexplore.ieee.org/document/11106450)
 
 * **Bayram E.**, Baştopçu M., Belabbas M.-A., Başar T., *Age of k-out-of-n Systems in a Gossip Network*. (Asilomar Conference 24') [View on IEEEXplore](https://ieeexplore.ieee.org/document/10942930)
 
