@@ -20,7 +20,7 @@ Education
 Work experience
 ======
 * May 2025 - Aug 2025: Machine Learning Intern @ Edge AI
- * **Analog Devices, Inc.**, On-site, Boston, MA
+  * **Analog Devices, Inc.**, On-site, Boston, MA
     - Built an ultra low latency and ultra low power on speech enhancement method.
     - Heterogeneous compute for AI-driven signal chains on edge platforms.
     - Dynamic pruning for neural network, saving ~49% power with minimal performance loss.

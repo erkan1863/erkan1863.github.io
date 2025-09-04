@@ -7,19 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-
-
 I am a Ph.D. candidate at the [University of Illinois Urbana-Champaign](https://illinois.edu/) ECE under the co-advisory of [Prof. Tamer Basar](http://tamerbasar.csl.illinois.edu/) and [Prof. Mohamed-Ali Belabbas](https://publish.illinois.edu/belabbas/). I have obtained my B.Sc. degree from [Bilkent University](https://ee.bilkent.edu.tr/en/) Electrical and Electronics Engineering department. 
 
 I have focused on the efficient utilization of neural networks under communication and control constraints for edge (distributed) devices applications e.g. sEMG sensor, audio-noise cancellation.
 
 **NEWS**:
 
+* **09/2025** Paper on [Geometric Foundations of Tuning without Forgetting](2025-09-07-GeoFoundationsTwF) in Neural ODEs is on ArXiv.
+
+* **08/2025** I have succesfully completed my returning internship at Edge AI Team in [Analog Devices Inc.](https://www.analog.com/en/index.html) as Machine Learning Intern where I have worked on RL for ultra-Low Latency neural networks and speech enhancement.
+
 * **07/2025** Paper on Control Disturbance Rejection in Neural ODEs is accepted to CDC 2025.
 
 * **07/2025** Paper on [Age of Coded Updates In Gossip Network Under Memory and Memoryless Scheme](https://erkan1863.github.io/publication/2024-10-29-age_of_coded) is accepted to IEEE Transactions on Communications.
 
-* **05/2025** I started a returning internship at Edge AI Team in [Analog Devices Inc.](https://www.analog.com/en/index.html) as Machine Learning Intern.
 
 * **04/2025** I passed my preliminary exam, and my dissertation proposal on A Geometric Approach to Continual Learning has been approved. Thanks to all committee members!
 
