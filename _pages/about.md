@@ -13,7 +13,7 @@ I have focused on the efficient utilization of neural networks under communicati
 
 **NEWS**:
 
-* **09/2025** Paper on [Geometric Foundations of Tuning without Forgetting](2025-09-04-GeoFoundationsTwF) in Neural ODEs is on ArXiv.
+* **09/2025** Paper on [Geometric Foundations of Tuning without Forgetting](2025-09-02-GeoFoundationsTwF) in Neural ODEs is on ArXiv.
 
 * **08/2025** I have succesfully completed my returning internship at Edge AI Team in [Analog Devices Inc.](https://www.analog.com/en/index.html) as Machine Learning Intern where I have worked on RL for ultra-Low Latency neural networks and speech enhancement.
 

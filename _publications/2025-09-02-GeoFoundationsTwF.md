@@ -1,9 +1,9 @@
 ---
 title: "Geometric Foundations of Tuning without Forgetting in Neural ODEs"
 collection: publications
-permalink: /publication/2025-09-07-GeoFoundationsTwF
+permalink: /publication/2025-09-02-GeoFoundationsTwF
 # excerpt: 'This paper is about fixing template issue #693.'
-date: 
+date: 2024-09-02
 venue: 'Under Review'
 paperurl: 'https://arxiv.org/abs/2509.03474'
 citation: 'Geometric Foundations of Tuning without Forgetting in Neural ODEs
