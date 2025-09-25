@@ -13,11 +13,11 @@ I have focused on the efficient utilization of neural networks under communicati
 
 **NEWS**:
 
-* **09/2025** Paper on [Geometric Foundations of Tuning without Forgetting](https://erkan1863.github.io/publication/2025-09-02-GeoFoundationsTwF) in Neural ODEs is on ArXiv.
+* **09/2025** Paper on [Geometric Foundations of Tuning without Forgetting in Neural ODEs](https://erkan1863.github.io/publication/2025-09-02-GeoFoundationsTwF) is on ArXiv.
 
 * **08/2025** I have succesfully completed my returning internship at Edge AI Team in [Analog Devices Inc.](https://www.analog.com/en/index.html) as Machine Learning Intern where I have worked on RL for ultra-Low Latency neural networks and speech enhancement.
 
-* **07/2025** Paper on Control Disturbance Rejection in Neural ODEs is accepted to CDC 2025.
+* **07/2025** Paper on [Control Disturbance Rejection in Neural ODEs](https://erkan1863.github.io/publication/2024-10-24-control_disturbance_node) is accepted to CDC 2025.
 
 * **07/2025** Paper on [Age of Coded Updates In Gossip Network Under Memory and Memoryless Scheme](https://erkan1863.github.io/publication/2024-10-29-age_of_coded) is accepted to IEEE Transactions on Communications.
 
