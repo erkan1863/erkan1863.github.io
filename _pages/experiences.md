@@ -82,7 +82,7 @@ Honors & Academic Achievements
 
 Service
 ======
-* Technical Reviewer for: Neurips, IEEE ISIT, IEEE L-CSS, IEEE CDC, SysDO'24, L4DC'25, Neurips
+* Technical Reviewer for: Neurips, IEEE ISIT, IEEE L-CSS, IEEE CDC, SysDO'24, L4DC'25, Neurips 2025
 
 <!--   
 Skills

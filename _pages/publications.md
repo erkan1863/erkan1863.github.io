@@ -15,7 +15,7 @@ author_profile: true
 <!-- {% include base_path %} -->
 * **Bayram E.**, Belabbas M.-A., Başar T., *Geometric Foundations of Tuning without Forgetting in Neural ODEs*. [View on ArXiv](https://arxiv.org/abs/2509.03474)
 
-* **Bayram E.**, Belabbas M.-A., Başar T., *Control Disturbance Rejection in Neural ODEs*. (to appear on CDC25)
+* **Bayram E.**, Belabbas M.-A., Başar T., *Control Disturbance Rejection in Neural ODEs*. (to appear on CDC25) [View on ArXiv](https://arxiv.org/abs/2509.18034)
 
 * **Bayram E.**, Liu S., Belabbas M.-A., Başar T., *Control Theoretic Approach to Fine-Tuning and Transfer Learning*. (SysDO24) [View on ArXiv](https://arxiv.org/abs/2404.11013)
 
