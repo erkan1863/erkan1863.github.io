@@ -32,16 +32,7 @@ Work experience
     - Utilized **AzureML** for model development and testing.
     - Outperformed the SOTA by **~5dB** in wind noise reduction within application latency constraint.
     - Reduced model size **x25** with respect to the SOTA to meet application memory constraint.
-    - Reduced FLOPs **x4** with respect to the SOTA to have power efficiency
-
-* **Neurocess, Co., Machine Learning for Signal Processing Consultant**
-  * May 2021 - Dec 2023, Remote, London, UK
-    - Developed probabilistic ML models for performance analysis of soccer players via TensorFlow and **PyTorch**.
-    - Developed a novel denoising model providing a significant **17dB SNR** improvement for motion artifact denoising on sEMG data.
-    - Automated report generation for weekly monitoring of athletes using **generative models and LLM**.
-    - Utilized **AWS** for ML model deployment and cloud computing.
-    - Developed a novel **few-shot-learning** model for sEMG motion classification achieving an accuracy of %79 in a 10-way-5-shot learning.
-
+    - Reduced FLOPs **x4** with respect to the SOTA to have power efficiency.
 
 * **University of Illinois Urbana-Champaign, Teaching Assistant**
   * Jan 2024 - Present, On-site, Urbana, IL
