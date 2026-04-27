@@ -13,6 +13,8 @@ I have focused on the efficient utilization of neural networks under communicati
 
 **NEWS**:
 
+* **04/2026** I have attended 12th Midwest Workshop on Control and Game Theory at Purdue.
+
 * **01/2026** I have given an invited talk at Purdue ICON Student Conference on Control Disturbance Rejection in Neural ODEs.
 
 * **09/2025** Paper on [Geometric Foundations of Tuning without Forgetting in Neural ODEs](https://erkan1863.github.io/publication/2025-09-02-GeoFoundationsTwF) is on ArXiv.

@@ -21,13 +21,6 @@ Work experience
   * Analog Devices, Inc., On-site, Boston, MA
     - Developing ultra-low latency neural networks for active noise cancellation.
 
-* May 2021 - Dec 2023: Signal Processing Focus Data Science Consultant
-  * Neurocess, Co., Remote, London, UK
-    - Developed probabilistic ML models for performance analysis of soccer players via TensorFlow and PyTorch.
-    - Developed a novel denoising model providing a significant 17dB SNR improvement for motion artifact denoising on sEMG data.
-    - Automated report generation for weekly monitoring of athletes using generative models and LLM.
-    - Utilized AWS for ML model deployment and cloud computing.
-
 * Jan 2024 - Present: Teaching Assistant
   * University of Illinois Urbana-Champaign, Urbana, IL
     - Teaching Assistant for MATH595/ECE553 Optimum Control Systems: Holding office hours and grading assignments.

@@ -42,6 +42,7 @@ Work experience
     - Utilized **AWS** for ML model deployment and cloud computing.
     - Developed a novel **few-shot-learning** model for sEMG motion classification achieving an accuracy of %79 in a 10-way-5-shot learning.
 
+
 * **University of Illinois Urbana-Champaign, Teaching Assistant**
   * Jan 2024 - Present, On-site, Urbana, IL
     - Teaching Assistant for **MATH595/ECE553** Optimum Control Systems (Spring 2024): Holding office hours and grading assignments.
